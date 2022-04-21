@@ -15,6 +15,6 @@ divider-color: #BDBDBD;
     -fx-text-fill: text-primary-color;
 }
 
-.grid{
+#lbTexto, #lbCorFonte, #lbCorFundo, #lbFonte, #lbInstrucaoCores{
     -fx-text-fill: text-primary-color;
 }
